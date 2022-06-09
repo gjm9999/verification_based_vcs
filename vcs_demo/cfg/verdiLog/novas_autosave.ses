@@ -1,0 +1,45 @@
+@verdi rc file Version 1.0
+[General]
+VerdiVersion = Verdi3_L-2016.06-1
+[KeyNote]
+Line1 = Automatic Backup 0
+[TestBench]
+ConstrViewShow = 0
+InherViewShow = 0
+FSDBMsgShow = 0
+AnnotationShow = 0
+powerDumped = 0
+[hb]
+viewport = 390 175 900 700 294 448 253 898
+activeNode = "testbench"
+activeScope = "testbench"
+activeFile = "../top/testbench.sv"
+interactiveMode = False
+viewType = Source
+simulatorMode = False
+sourceBeginLine = 46
+baMode = False
+srcLineNum = True
+syncSignal = False
+traceMode = Hierarchical
+showTraceInSchema = True
+paMode = False
+funcMode = False
+traceCrossHier = True
+DnDtraceCrossHierOnly = True
+traceIncTopPort = False
+leadingZero = False
+signalPane = False
+Scope1 = "testbench"
+multipleSelection = 1 68 3 0 0
+sdfCheckUndef = FALSE
+simFlow = FALSE
+[hb.sourceTab.1]
+scope = testbench
+File = /home/xiaotu/my_work/vcs_demo/top/testbench.sv
+Line = 47
+[imp.design1]
+dbEnum =  oh
+invokeDir = /home/xiaotu/my_work/vcs_demo/cfg
+design = DebussyLib
+hostCommand = hostCommand -f tb.f

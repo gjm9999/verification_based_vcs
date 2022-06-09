@@ -1,0 +1,234 @@
+*design* DebussyLib (btIdent Verdi3_L-2016.06-1)
+Command arguments:
+    +define+verilog
+    -f tb.f
+        ../top/testbench.sv
+        ../rtl/mem.v
+        ../ver/pkt_if.sv
+
+
+*Error* Syntax error at 1ns
+"../top/testbench.sv", 8: 
+
+*Error* Syntax error at 1ps
+"../top/testbench.sv", 9: 
+
+*Error* Syntax error at ;
+"../top/testbench.sv", 11: 
+
+*Error* Syntax error at ;
+"../top/testbench.sv", 12: 
+
+*Error* Syntax error at ,
+"../top/testbench.sv", 13: 
+
+*Error* usage of time literal as delay value is supported only if the option '-sv' is specified
+"../top/testbench.sv", 24: 
+
+*Error* usage of time literal as delay value is supported only if the option '-sv' is specified
+"../top/testbench.sv", 26: 
+
+*Error* usage of time literal as delay value is supported only if the option '-sv' is specified
+"../top/testbench.sv", 32: 
+
+*Error* Syntax error at =
+"../top/testbench.sv", 40: 
+
+*Error* Syntax error at =
+"../top/testbench.sv", 41: 
+
+*Error* Syntax error at [
+"../top/testbench.sv", 42: 
+
+*Error* Syntax error at [
+"../top/testbench.sv", 43: 
+
+*Error* Syntax error at [
+"../top/testbench.sv", 45: 
+
+*Error* Syntax error at ;
+"../top/testbench.sv", 46: 
+
+*Error* Syntax error at ;
+"../top/testbench.sv", 47: 
+
+*Error* Syntax error at [
+"../top/testbench.sv", 48: 
+
+*Error* Syntax error at [
+"../top/testbench.sv", 49: 
+
+*Error* usage of time literal as delay value is supported only if the option '-sv' is specified
+"../top/testbench.sv", 88: 
+
+*Error* usage of time literal as delay value is supported only if the option '-sv' is specified
+"../top/testbench.sv", 94: 
+
+*Error* usage of time literal as delay value is supported only if the option '-sv' is specified
+"../top/testbench.sv", 100: 
+
+*Error* usage of time literal as delay value is supported only if the option '-sv' is specified
+"../top/testbench.sv", 104: 
+
+*Error* clk is referenced before declaration
+"../top/testbench.sv", 24: 
+
+*Error* clk is referenced before declaration
+"../top/testbench.sv", 24: 
+
+*Error* clk is referenced before declaration
+"../top/testbench.sv", 26: 
+
+*Error* rst_n is referenced before declaration
+"../top/testbench.sv", 27: 
+
+*Error* non-constant instance parameter
+"../top/testbench.sv", 38: 
+
+*Error* illegal LHS in procedural assignment
+"../top/testbench.sv", 24: 
+
+*Error* illegal LHS in procedural assignment
+"../top/testbench.sv", 27: 
+
+*Error* illegal LHS in procedural assignment
+"../top/testbench.sv", 89: 
+
+*Error* illegal LHS in procedural assignment
+"../top/testbench.sv", 90: 
+
+*Error* illegal LHS in procedural assignment
+"../top/testbench.sv", 91: 
+
+*Error* illegal LHS in procedural assignment
+"../top/testbench.sv", 95: 
+
+*Error* illegal LHS in procedural assignment
+"../top/testbench.sv", 96: 
+
+*Error* illegal LHS in procedural assignment
+"../top/testbench.sv", 97: 
+
+*Error* illegal LHS in procedural assignment
+"../top/testbench.sv", 101: 
+
+*Error* illegal LHS in procedural assignment
+"../top/testbench.sv", 102: 
+
+*Error* illegal LHS in procedural assignment
+"../top/testbench.sv", 105: 
+
+*Error* illegal LHS in procedural assignment
+"../top/testbench.sv", 106: 
+
+*Error* Syntax error at sssssss
+"../rtl/mem.v", 22: 
+
+*Error* non-constant instance parameter
+"../rtl/mem.v", 5: 
+
+*Error* illegal LHS in continuous assignment
+"../rtl/mem.v", 75: 
+
+*Error* illegal LHS in continuous assignment
+"../rtl/mem.v", 77: 
+
+*Error* illegal LHS in continuous assignment
+"../rtl/mem.v", 78: 
+
+*Error* illegal LHS in continuous assignment
+"../rtl/mem.v", 79: 
+
+*Error* illegal LHS in continuous assignment
+"../rtl/mem.v", 95: 
+
+*Error* Syntax error at interface
+"../ver/pkt_if.sv", 4: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"../ver/pkt_if.sv", 5: 
+
+*Error* Syntax error at parameter
+"../ver/pkt_if.sv", 6: 
+
+*Error* Syntax error at )
+"../ver/pkt_if.sv", 7: 
+
+*Error* Syntax error at logic
+"../ver/pkt_if.sv", 9: 
+
+*Error* Syntax error at logic
+"../ver/pkt_if.sv", 10: 
+
+*Error* Syntax error at logic
+"../ver/pkt_if.sv", 11: 
+
+*Error* Syntax error at clocking
+"../ver/pkt_if.sv", 13: 
+
+*Error* Syntax error at output
+"../ver/pkt_if.sv", 15: 
+
+*Error* Syntax error at output
+"../ver/pkt_if.sv", 16: 
+
+*Error* Syntax error at endclocking
+"../ver/pkt_if.sv", 17: 
+
+*Error* Syntax error at modport
+"../ver/pkt_if.sv", 18: 
+
+*Error* Syntax error at clocking
+"../ver/pkt_if.sv", 20: 
+
+*Error* Syntax error at default
+"../ver/pkt_if.sv", 22: 
+
+*Error* Syntax error at input
+"../ver/pkt_if.sv", 23: 
+
+*Error* Syntax error at input
+"../ver/pkt_if.sv", 24: 
+
+*Error* Syntax error at endclocking
+"../ver/pkt_if.sv", 25: 
+
+*Error* Syntax error at modport
+"../ver/pkt_if.sv", 26: 
+
+*Error* Syntax error at endinterface
+"../ver/pkt_if.sv", 28: 
+Highest level modules:
+testbench
+
+
+*Error* failed to find identifier tc_name
+"../top/testbench.sv", 18: 
+
+*Error* failed to find identifier tc_name
+"../top/testbench.sv", 19: 
+
+*Error* failed to find identifier tc_seed
+"../top/testbench.sv", 20: 
+
+*Error* failed to find identifier tc_seed
+"../top/testbench.sv", 21: 
+
+*Error* failed to find identifier bus.data
+"../top/testbench.sv", 70: 
+
+*Error* failed to find identifier bus.addr
+"../top/testbench.sv", 71: 
+
+*Error* failed to find identifier bus.vld
+"../top/testbench.sv", 72: 
+
+*Error* failed to find identifier bus.mon.vld
+"../top/testbench.sv", 76: 
+
+*Error* failed to find identifier bus.mon
+"../top/testbench.sv", 78: 
+
+*Error* view pkt_if is not defined for instance bus
+"../top/testbench.sv", 69: 
+Total	74 error(s),   0 warning(s)

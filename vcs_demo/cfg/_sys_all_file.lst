@@ -1,0 +1,12 @@
+Command: vcs -f tb.f -l _sys_all_file.lst +libext+.sv+.v +v2k -sverilog -ntb_opts \
+uvm-1.2 -timescale=1ns/1ps -unit_timescale=1ns/1ps
+                         Chronologic VCS (TM)
+         Version L-2016.06_Full64 -- Tue Feb 16 06:24:07 2021
+               Copyright (c) 1991-2016 by Synopsys Inc.
+                         ALL RIGHTS RESERVED
+
+This program is proprietary and confidential information of Synopsys Inc.
+and may be used and disclosed only as authorized in a license agreement
+controlling such use and disclosure.
+
+CPU time: .167 seconds to compile
