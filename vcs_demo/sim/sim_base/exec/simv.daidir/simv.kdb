@@ -1,0 +1,19 @@
+rc file Version 1.0
+
+[Design]
+COMPILE_PATH=/home/xiaotu/Git_Path/vcs_demo/vcs_demo/sim
+SystemC=FALSE
+UUM=FALSE
+KDB=TRUE
+USE_NOVAS_HOME=FALSE
+COSIM=FALSE
+TOP=testbench 
+OPTION=-ssz -ssv -ssy -ssz -ssv -ssy 
+ELAB=TRUE
+SIMV_WRAPPER=FALSE
+[vcs]
+RUN_ELABCOM=\rm -rf /home/xiaotu/Git_Path/vcs_demo/vcs_demo/sim/./sim_base/exec/simv.daidir/kdb.elab++ ;unset TURBO_LOG_DIR ; /tools/synopsys/vcs/vcs-mx_vL-2016.06/linux64/bin/elabcom -logdir /home/xiaotu/Git_Path/vcs_demo/vcs_demo/sim/./sim_base/exec/simv.daidir/elabcomLog  -simvdaidir /home/xiaotu/Git_Path/vcs_demo/vcs_demo/sim/./sim_base/exec/simv.daidir -lib /home/xiaotu/Git_Path/vcs_demo/vcs_demo/sim/./sim_base/exec/simv.daidir/work -elab /home/xiaotu/Git_Path/vcs_demo/vcs_demo/sim/./sim_base/exec/simv.daidir/kdb -simflow -top 'testbench ' -ssz -ssv -ssy -ssz -ssv -ssy  -Lf work  >& /dev/null 
+
+[Value]
+WREALX=ffff534e50535f58
+WREALZ=ffff534e50535f5a

@@ -1,0 +1,3 @@
+DPI_STUB_OBJS += ./../sim_base/exec/simv.daidir/vc_hdrs.o
+./../sim_base/exec/simv.daidir/vc_hdrs.o: ./../sim_base/exec/simv.daidir/vc_hdrs.c
+	@$(CC)  -pipe -DVCSMX -fPIC    -I/tools/synopsys/vcs/vcs-mx_vL-2016.06/include  -fPIC -c -o ./../sim_base/exec/simv.daidir/vc_hdrs.o ./../sim_base/exec/simv.daidir/vc_hdrs.c

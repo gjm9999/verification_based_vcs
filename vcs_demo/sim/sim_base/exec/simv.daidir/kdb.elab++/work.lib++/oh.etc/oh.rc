@@ -1,0 +1,5 @@
+@elabcom rc file Version 1.0
+[oh]
+invokeDir = /home/xiaotu/Git_Path/vcs_demo/vcs_demo/sim
+hostCommand = -lib /home/xiaotu/Git_Path/vcs_demo/vcs_demo/sim/./sim_base/exec/simv.daidir/work -elab /home/xiaotu/Git_Path/vcs_demo/vcs_demo/sim/./sim_base/exec/simv.daidir/kdb -simflow -top "testbench " -Lf work -SNPS_ELABCOM -saveElab
+simType = VCS

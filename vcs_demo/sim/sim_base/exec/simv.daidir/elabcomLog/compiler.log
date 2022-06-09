@@ -1,0 +1,3 @@
+*design* DebussyLib (btIdent Verdi3_L-2016.06)
+Command arguments:  -lib  /home/xiaotu/Git_Path/vcs_demo/vcs_demo/sim/./sim_base/exec/simv.daidir/work  -elab  /home/xiaotu/Git_Path/vcs_demo/vcs_demo/sim/./sim_base/exec/simv.daidir/kdb  -simflow  -top  testbench   -ssz  -ssv  -ssy  -ssz  -ssv  -ssy  -Lf  work  -SNPS_ELABCOM  -saveElab 
+Total	0 error(s),   0 warning(s)
