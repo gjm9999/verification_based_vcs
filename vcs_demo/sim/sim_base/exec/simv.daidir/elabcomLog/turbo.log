@@ -1,3 +1,0 @@
-Command Line: /tools/synopsys/vcs/vcs-mx_vL-2016.06/linux64/bin/elabcom -logdir /home/xiaotu/Git_Path/vcs_demo/vcs_demo/sim/./sim_base/exec/simv.daidir/elabcomLog -simvdaidir /home/xiaotu/Git_Path/vcs_demo/vcs_demo/sim/./sim_base/exec/simv.daidir -lib /home/xiaotu/Git_Path/vcs_demo/vcs_demo/sim/./sim_base/exec/simv.daidir/work -elab /home/xiaotu/Git_Path/vcs_demo/vcs_demo/sim/./sim_base/exec/simv.daidir/kdb -simflow -top testbench  -ssz -ssv -ssy -ssz -ssv -ssy -Lf work
-uname(Linux xiaotu-eda 2.6.32-754.el6.x86_64 #1 SMP Tue Jun 19 21:26:04 UTC 2018 x86_64)
-au time 0.836999 0.322951 0.091986 delta 243441664 243441664 total 349724672 349724672
